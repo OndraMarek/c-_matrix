@@ -1,0 +1,26 @@
+C:\Users\Ondřej\Documents\csharp\matice\matice\bin\Debug\netcoreapp3.1\matice.exe
+C:\Users\Ondřej\Documents\csharp\matice\matice\bin\Debug\netcoreapp3.1\matice.deps.json
+C:\Users\Ondřej\Documents\csharp\matice\matice\bin\Debug\netcoreapp3.1\matice.runtimeconfig.json
+C:\Users\Ondřej\Documents\csharp\matice\matice\bin\Debug\netcoreapp3.1\matice.runtimeconfig.dev.json
+C:\Users\Ondřej\Documents\csharp\matice\matice\bin\Debug\netcoreapp3.1\matice.dll
+C:\Users\Ondřej\Documents\csharp\matice\matice\bin\Debug\netcoreapp3.1\matice.pdb
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.csprojAssemblyReference.cache
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.AssemblyInfoInputs.cache
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.AssemblyInfo.cs
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.dll
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.pdb
+C:\Users\Ondřej\Documents\csharp\matice\matice\obj\Debug\netcoreapp3.1\matice.genruntimeconfig.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\bin\Debug\netcoreapp3.1\matice.exe
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\bin\Debug\netcoreapp3.1\matice.deps.json
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\bin\Debug\netcoreapp3.1\matice.runtimeconfig.json
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\bin\Debug\netcoreapp3.1\matice.runtimeconfig.dev.json
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\bin\Debug\netcoreapp3.1\matice.dll
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\bin\Debug\netcoreapp3.1\matice.pdb
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.csprojAssemblyReference.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.AssemblyInfoInputs.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.AssemblyInfo.cs
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.csproj.CoreCompileInputs.cache
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.dll
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.pdb
+C:\Users\Ondřej\Documents\slu\zkoušky\semestr 3\Algoritmy a programování III\matice\matice\obj\Debug\netcoreapp3.1\matice.genruntimeconfig.cache
