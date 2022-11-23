@@ -14,15 +14,10 @@ namespace matice
             {
                 for (int j = 0; j < MATRIX_SIZE; j++)
                 {
-                    do {
-                        //Console.Write("Zadejte hodnotu matice na indexu[{0},{1}]:", i, j);
-                        //num = Convert.ToInt32(Console.ReadLine());
-                        num= rnd.Next(-9,9);
-                    } while (num < -9 || num>9);
+                    num= rnd.Next(-9,9);
                     matrix[i, j] = num;
                 }
             }
-            Console.WriteLine();
             return;
         }
 
@@ -43,7 +38,7 @@ namespace matice
 
         static void calcMatrix(int[,] one, int[,] two,int[,] result) //Funkce pro výpočet součtu a rozdílu matice
         {
-            Console.Write("Zadejte znak '+' pro sočítání nebo '-' pro odčítání: ");
+            Console.Write("Zadejte znak '+' pro sčítání nebo '-' pro odčítání: ");
             string op = Console.ReadLine();
             if (op == "+" || op == "-")
             {
